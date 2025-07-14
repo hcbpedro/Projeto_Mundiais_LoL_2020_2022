@@ -66,7 +66,7 @@ Os dados foram obtidos de datasets públicos no Kaggle, cobrindo as fases "Play-
 
 <img src="screenshots/dragao_vs_arauto.png" alt="Dragão vs. Arauto (Comparação)" width="800"/>
 
-4.  **Evolução do Metagame:** *(Inserir imagem do gráfico de linhas 2020-2022)*
+4.  **Evolução do Metagame:** 
 
 <img src="screenshots/evolucao_metagame.png" alt="Evolução do Metagame" width="800"/>
 
